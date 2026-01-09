@@ -105,7 +105,7 @@
     <section id="demo" class="py-24 relative">
         <div class="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-16 items-center">
             <div class="reveal">
-                <h2 class="text-4xl font-bold mb-6">Experience It <span class="text-blue-400">Instantly</span></h2>
+                <h2 class="text-4xl font-bold mb-6">Experience It <span class="text-blue-500">Instantly</span></h2>
                 <p class="text-gray-400 text-lg mb-8">
                     Skip the sign-up forms. We've prepared a demo environment for you. 
                     Populate products, creating invoices, and chat with the AI assistant in seconds.
@@ -208,9 +208,9 @@
         <div class="max-w-7xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center opacity-60 hover:opacity-100 transition">
             <p>&copy; 2024 Mero Bill. All rights reserved.</p>
             <div class="flex space-x-6 mt-4 md:mt-0">
-                <a href="#" class="hover:text-blue-400">Privacy</a>
-                <a href="#" class="hover:text-blue-400">Terms</a>
-                <a href="#" class="hover:text-blue-400">Contact</a>
+                <a href="#" class="hover:text-blue-500">Privacy</a>
+                <a href="#" class="hover:text-blue-500">Terms</a>
+                <a href="#" class="hover:text-blue-500">Contact</a>
             </div>
         </div>
     </footer>
